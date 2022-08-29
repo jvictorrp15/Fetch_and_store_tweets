@@ -84,7 +84,3 @@ After creating the App click on **Keys and tokens** option you will observe Cons
     Final generated tweets in`.csv` file output
 
     <img src="img/output-2.png" alt="output2" style="zoom: 33%;" />
-
-## Author Name
-
-[Kushal Agrawal](https://github.com/kushal98)
